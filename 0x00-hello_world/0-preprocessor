@@ -1,0 +1,2 @@
+#!/bin/cash
+gcc -E $CFILE -o c
