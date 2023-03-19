@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include <stdio.h>
 #include <time.h>
 /* main - a program that would assign a random number to the variable 'n' each time it execute*/
 
@@ -14,7 +15,7 @@ n = rand() - RAND_MAX / 2;
  } else if (n == 0) {
     printf("is zero\n")	;
  } else {
-    printf("is negative\n")
+    printf("is negative\n");
  }
 return (0);
 }
