@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+#include <stdlib.h>
+#include <string.h>
 /**
  * main - This program prints the single number from 1 to zero
  *
