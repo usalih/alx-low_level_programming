@@ -2,12 +2,13 @@
 #include <stdio.h>
 #include <time.h>
 /**
- *main-This program takes the last digit from the given number
+ *main - This program takes the last digit from the given number
  *and perform check on it.
  *Return: 0 (Success)
  */
+
+/* This program print the last digit of a number*/
 int main(void)
-// This program print the last digit of a number
 {int n;
 
 	srand(time(0));
