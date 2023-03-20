@@ -7,6 +7,7 @@
  *Return: 0 (Success)
  */
 int main(void)
+// This program print the last digit of a number
 {int n;
 
 	srand(time(0));
