@@ -1,13 +1,13 @@
-#include "_putchar.c"
 #include "main.h"
 
 /**
- * main - the program would print '_putchar'
+ *main -a program would print '_putchar'followed by a new line
  *
- * Return - 0(Success)
+ *Return : 0 (Success)
  *
  */
-int _putchar(char)
+
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
@@ -19,5 +19,5 @@ int _putchar(char)
 	_putchar('r');
 	_putchar('\n');
 
-	return 0;
+	return (0);
 }
